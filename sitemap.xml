@@ -9,7 +9,23 @@
 
 <url>
   <loc>https://gautumb.github.io/electionmauritius/</loc>
-  <lastmod>2024-10-25T09:24:03+00:00</lastmod>
+  <lastmod>2024-10-30T13:48:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gautumb.github.io/electionmauritius/index.html</loc>
+  <lastmod>2024-10-30T13:48:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gautumb.github.io/electionmauritius/byelection.html</loc>
+  <lastmod>2024-10-30T13:48:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gautumb.github.io/electionmauritius/municip.html</loc>
+  <lastmod>2024-10-30T13:48:55+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
